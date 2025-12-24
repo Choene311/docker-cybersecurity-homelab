@@ -39,3 +39,5 @@ Windows Host
 ## Project Status
 Work in progress – the lab will be expanded with additional services
 (e.g. Nginx, security tooling, and Docker Compose).
+![Docker Containers](screenshots/Screenshot(2).png)
+
